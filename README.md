@@ -1,5 +1,7 @@
-Comparative Analysis of India-USA Inflation and Exchange Rate Trends
-Project Overview
+#Comparative Analysis of India-USA Inflation and Exchange Rate Trends
+
+##Project Overview
+
 This project explores the relationship between inflation rates in India and the United States and the exchange rate between the Indian Rupee (INR) and the US Dollar (USD) from 1980 to 2024. Using historical data, we aim to uncover patterns, correlations, and possible factors influencing exchange rate fluctuations over time.
 
 Key Findings
